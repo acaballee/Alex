@@ -1,0 +1,77 @@
+{
+  "Futbol": {
+    "Liga_BBVA": [
+      {
+        "Jornada": 1,
+        "Partits": [
+          {
+            "Local": "R. Sociedad",
+            "Visitant": "Getafe",
+            "Resultat": "2 - 0",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "València",
+            "Visitant": "Màlaga",
+            "Resultat": "3 - 1",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "Osasuna",
+            "Visitant": "R. Madrid",
+            "Resultat": "1 - 2",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "Sevilla",
+            "Visitant": "Atlètic",
+            "Resultat": "2 - 3",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "Celta",
+            "Visitant": "Espanyol",
+            "Resultat": "1 - 2",
+            "Estat": "finalitzat"
+          }
+        ]
+      },
+      {
+        "Jornada": 2,
+        "Partits": [
+          {
+            "Local": "R. Sociedad",
+            "Visitant": "València",
+            "Resultat": "2 - 2",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "Villarreal",
+            "Visitant": "Màlaga",
+            "Resultat": "2 - 1",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "Betis",
+            "Visitant": "Celta",
+            "Resultat": "2 - 2",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "Athletic",
+            "Visitant": "Osasuna",
+            "Resultat": "2 - 0",
+            "Estat": "finalitzat"
+          },
+          {
+            "Local": "FC Barcelona",
+            "Visitant": "Sevilla",
+            "Resultat": "5 - 0",
+            "Estat": "finalitzat"
+          }
+        ]
+      }
+    ]
+  }
+}
+

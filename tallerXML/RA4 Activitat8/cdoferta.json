@@ -1,0 +1,53 @@
+{
+  "CDs_en_oferta": [
+    {
+      "Titol": "Still got the blues",
+      "Artista": "Gary Moore",
+      "Pais": "UK",
+      "Companya_discografica": "Virgin records",
+      "Preu": 10.20,
+      "Any_publicacio": 1990
+    },
+    {
+      "Titol": "One night only",
+      "Artista": "Bee Gees",
+      "Pais": "UK",
+      "Companya_discografica": "Polydor",
+      "Preu": 10.90,
+      "Any_publicacio": 1998
+    },
+    {
+      "Titol": "When a man loves a woman",
+      "Artista": "Percy Sledge",
+      "Pais": "USA",
+      "Companya_discografica": "Atlantic",
+      "Preu": 8.70,
+      "Any_publicacio": 1987
+    },
+    {
+      "Titol": "Big Willie style",
+      "Artista": "Will Smith",
+      "Pais": "USA",
+      "Companya_discografica": "Columbia",
+      "Preu": 9.90,
+      "Any_publicacio": 1997
+    },
+    {
+      "Titol": "La canción de Juan Perro",
+      "Artista": "Radio Futura",
+      "Pais": "Espanya",
+      "Companya_discografica": "Sony Music-Ariola",
+      "Preu": 9.90,
+      "Any_publicacio": 1990
+    },
+    {
+      "Titol": "In the midnight hour",
+      "Artista": "Otis Redding",
+      "Pais": "USA",
+      "Companya_discografica": "Atlantic",
+      "Preu": 7.90,
+      "Any_publicacio": 1987
+    }
+  ]
+}
+

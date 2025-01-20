@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resultats_futbol>
+    <jornada nom="Jornada 1">
+        <partit estat="finalizado">
+            <equip1 gols="2">R. Sociedad</equip1>
+            <equip2 gols="0">Getafe</equip2>
+        </partit>
+        <partit estat="finalizado">
+            <equip1 gols="2">Valencia</equip1>
+            <equip2 gols="3">Sevilla</equip2>
+        </partit>
+        <partit estat="finalizado">
+            <equip1 gols="1">Betis</equip1>
+            <equip2 gols="2">Celta</equip2>
+        </partit>
+    </jornada>
+    <jornada nom="Jornada 2">
+        <partit estat="finalizado">
+            <equip1 gols="2">Rayo</equip1>
+            <equip2 gols="1">Levante</equip2>
+        </partit>
+        <partit estat="finalizado">
+            <equip1 gols="4">Celta</equip1>
+            <equip2 gols="3">Almeria</equip2>
+        </partit>
+        <partit estat="finalizado">
+            <equip1 gols="0">Osasuna</equip1>
+            <equip2 gols="0">Athletic</equip2>
+        </partit>
+    </jornada>
+    <jornada nom="Jornada 3">
+        <partit estat="finalizado">
+            <equip1 gols="1">R. Sociedad</equip1>
+            <equip2 gols="2">R. Madrid</equip2>
+        </partit>
+        <partit estat="finalizado">
+            <equip1 gols="3">Valencia</equip1>
+            <equip2 gols="2">FC Barcelona</equip2>
+        </partit>
+        <partit estat="finalizado">
+            <equip1 gols="1">Espanyol</equip1>
+            <equip2 gols="1">Valladolid</equip2>
+        </partit>
+    </jornada>
+</resultats_futbol>
+

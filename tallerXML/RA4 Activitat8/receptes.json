@@ -1,0 +1,59 @@
+{
+    "recetas": [
+        {
+            "titulo": "Arròs de coliflor",
+            "ingredients": [
+                "1 kg de coliflor",
+                "300 g de cansalada",
+                "2 tomaques madures",
+                "1 ceba",
+                "3 grans d'all",
+                "Safrà",
+                "Aigua",
+                "Oli",
+                "Sal"
+            ],
+            "preparacio": [
+                "Talleu la coliflor en brots i poseu-la a bullir en una cassola amb aigua i sal.",
+                "Fregiu la cansalada tallada a trossos en una paella amb oli.",
+                "Afegiu-hi la ceba i els alls picats i sofregiu-ho tot.",
+                "Afegiu-hi les tomaques ratllades i el safrà i continueu sofregint.",
+                "Afegiu-ho tot a la cassola amb la coliflor i deixeu-ho coure durant uns 15 minuts.",
+                "Tasteu i rectifiqueu de sal si cal."
+            ],
+            "notes": "Recepta típica de les terres de l'Ebre.",
+            "origen": "Catalunya",
+            "categoria": "Primer plat",
+            "calories": "300 kcal"
+        },
+        {
+            "titulo": "Paella de marisc",
+            "ingredients": [
+                "400 g d'arròs",
+                "1/2 kg de musclos",
+                "1/4 kg de gambes",
+                "1/4 kg de calamar",
+                "1 ceba",
+                "2 tomaques madures",
+                "3 grans d'all",
+                "Brou de peix",
+                "Oli",
+                "Sal"
+            ],
+            "preparacio": [
+                "Netegeu i obriu els musclos al vapor.",
+                "Fregiu les gambes en una paella amb oli i reserveu-les.",
+                "Fregiu el calamar tallat a rodanxes i reserveu-lo.",
+                "Feu un sofregit amb la ceba, els alls i les tomaques ratllades.",
+                "Afegiu-hi l'arròs i sofregiu-lo uns minuts.",
+                "Afegiu-hi el brou de peix calent i deixeu-ho coure uns 10 minuts.",
+                "Afegiu-hi les gambes, els musclos i el calamar i deixeu-ho coure tot junt uns 8 minuts més.",
+                "Tasteu i rectifiqueu de sal si cal."
+            ],
+            "notes": "Recepta tradicional de la costa mediterrània.",
+            "origen": "Catalunya",
+            "categoria": "Plat principal",
+            "calories": "350 kcal"
+        }
+    ]
+}
