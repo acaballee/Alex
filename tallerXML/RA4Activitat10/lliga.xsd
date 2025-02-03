@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="lliga">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="resultats">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="partit" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="equip1" type="xs:string"/>
+                    <xs:element name="equip2" type="xs:string"/>
+                    <xs:element name="gols_equip1" type="xs:int"/>
+                    <xs:element name="gols_equip2" type="xs:int"/>
+                    <xs:element name="data" type="xs:date"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
